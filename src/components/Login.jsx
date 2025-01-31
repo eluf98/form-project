@@ -100,7 +100,7 @@ export default function Register (){
     <Input
       id="ad"
       name="ad"
-      placeholder="Adınızı Giriniz"
+      placeholder="Adınızı giriniz"
       type="text"
       onChange={handleChange}
       value={formData.ad}
@@ -116,7 +116,7 @@ export default function Register (){
     <Input
       id="soyad"
       name="soyad"
-      placeholder="Soyadınızı Giriniz"
+      placeholder="Soyadınızı giriniz"
       type="text"
       onChange={handleChange}
       value={formData.soyad}
