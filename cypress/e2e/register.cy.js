@@ -1,4 +1,4 @@
-import { errorMessages } from "../../src/components/Register";
+import { errorMessages } from "../../src/components/Login";
 
 describe('Register Page', () => {
   beforeEach(()=>{
